@@ -1,2 +1,2 @@
-# Henry
+# Schultz Henry Boado
 aspiring programmer
